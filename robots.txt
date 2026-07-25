@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Remove this block only after the website and journal are formally approved.

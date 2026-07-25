@@ -1,0 +1,33 @@
+{
+  "journal_name": "Innovation in Computer Sciences and Information Systems (ICSIS)",
+  "status": "pre-launch",
+  "publisher": "Faculty of Computers and Information Technology, Innovation University, Egypt",
+  "contact": "ahmed.abdelhafeez@iu.edu.eg",
+  "claims_intentionally_omitted": [
+    "ISSN",
+    "DOI",
+    "indexing",
+    "EKB hosting",
+    "active submission portal"
+  ],
+  "generated_files": [
+    ".nojekyll",
+    "404.html",
+    "README_AR.md",
+    "about.html",
+    "assets/logo.svg",
+    "assets/script.js",
+    "assets/styles.css",
+    "authors.html",
+    "contact.html",
+    "current-issue.html",
+    "downloads/ICSIS_Guide_for_Authors_Prelaunch.docx",
+    "editorial-board.html",
+    "ethics.html",
+    "index.html",
+    "peer-review.html",
+    "robots.txt",
+    "sitemap.xml",
+    "submit.html"
+  ]
+}
